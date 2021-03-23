@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/World-Map/static/css/main.a549afe7.chunk.css",
+    "main.js": "/World-Map/static/js/main.368866ea.chunk.js",
+    "main.js.map": "/World-Map/static/js/main.368866ea.chunk.js.map",
+    "runtime-main.js": "/World-Map/static/js/runtime-main.dcd2bf96.js",
+    "runtime-main.js.map": "/World-Map/static/js/runtime-main.dcd2bf96.js.map",
+    "static/js/2.24d3aade.chunk.js": "/World-Map/static/js/2.24d3aade.chunk.js",
+    "static/js/2.24d3aade.chunk.js.map": "/World-Map/static/js/2.24d3aade.chunk.js.map",
+    "static/js/3.b4b67f11.chunk.js": "/World-Map/static/js/3.b4b67f11.chunk.js",
+    "static/js/3.b4b67f11.chunk.js.map": "/World-Map/static/js/3.b4b67f11.chunk.js.map",
+    "index.html": "/World-Map/index.html",
+    "static/css/main.a549afe7.chunk.css.map": "/World-Map/static/css/main.a549afe7.chunk.css.map",
+    "static/js/2.24d3aade.chunk.js.LICENSE.txt": "/World-Map/static/js/2.24d3aade.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcd2bf96.js",
+    "static/js/2.24d3aade.chunk.js",
+    "static/css/main.a549afe7.chunk.css",
+    "static/js/main.368866ea.chunk.js"
+  ]
+}
